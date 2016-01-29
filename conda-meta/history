@@ -1,0 +1,13 @@
+==> 2016-01-29 13:10:49 <==
+# cmd: /Users/parv/anaconda/bin/conda create --name io_lab --force-pscheck python=3.5 --json
+openssl-1.0.2f-0
+pip-8.0.1-py35_0
+python-3.5.1-0
+readline-6.2-2
+setuptools-19.4-py35_0
+sqlite-3.9.2-0
+tk-8.5.18-0
+wheel-0.26.0-py35_1
+xz-5.0.5-0
+zlib-1.2.8-0
+# create specs: ['python 3.5*']
